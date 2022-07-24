@@ -1,0 +1,17 @@
+body
+{
+
+}
+
+.heading{
+    color: yellow;
+    font-size: 40px; 
+
+}
+
+#canvas{
+    border-color: tomato;
+    border-style: double;
+    width: 500;
+    height: 500;
+}
